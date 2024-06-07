@@ -1,6 +1,6 @@
 # QBMQSP
 
-The implementation of a gate model based quantum Boltzmann machine based on quantum signal processing for anamaly detection dataset.
+The implementation of a gate model based quantum Boltzmann machine based on quantum signal processing for anomaly detection dataset.
 
 ## Description
 
