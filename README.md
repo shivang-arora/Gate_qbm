@@ -1,10 +1,11 @@
 # QBMQSP
 
-An implementation of a quantum Boltzmann machine based on quantum signal processing.
+The implementation of a gate model based quantum Boltzmann machine based on quantum signal processing for anomaly detection dataset.
 
 ## Description
 
-...
+... The current working file is in the test folder named 'Gate_qbm.ipynb'
+
 
 ## Getting Started
 
