@@ -1,0 +1,9 @@
+'FixedIQP.full_exact' depends on axioms: [propext, Classical.choice, Quot.sound]
+'FixedIQP.fixed_universality' depends on axioms: [propext, Classical.choice, Quot.sound]
+'IntegerFourier.histogram' depends on axioms: [propext, Classical.choice, Quot.sound]
+'IntegerFourier.fourier_universality' depends on axioms: [propext, Classical.choice, Quot.sound]
+'IntegerFourier.qutrit_thirds_impossible' depends on axioms: [propext, Classical.choice, Quot.sound]
+'IntegerFourier.qutrit_edge' depends on axioms: [propext, Classical.choice, Quot.sound]
+'IntegerFourier.string_universality' depends on axioms: [propext, Classical.choice, Quot.sound]
+9847178a4d6fa68cb20031b0cc042fabe07339d85a221d93c4ec12c34d217cbb  FixedIQP.lean
+42e2c86e6296f18a4fc2e40a083779f950b90f560e85df3f4b7fd13ee56de28f  IntegerFourier.lean
